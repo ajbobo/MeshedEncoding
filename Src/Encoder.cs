@@ -21,6 +21,8 @@ namespace Meshed_Encoding;
     It doesn't save any space, but it obfuscates the data pretty well
  If the mesh is a different type (ex: short) then it can store more data, but it still
     doesn't save space
+ This is a little different than the graphical version:
+    This one doesn't transpose the second level (columns)
  ****************************************************************************************/
 
 public class Encoder
