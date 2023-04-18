@@ -1,0 +1,3 @@
+Change output to Base64 encoded strings
+Test encoded strings against encryption schemes (https://www.dcode.fr/cipher-identifier)
+Add Decoder class
